@@ -1,0 +1,201 @@
+
+body {
+  font-family: tahoma, geneva, sans-serif; ;
+}
+
+div#accroche p {
+text-align: justify;
+padding: 10px 30px 25px 10px;
+margin-left: 535px;
+margin-right: 60px;
+margin-top: 3px;
+}
+
+div#pave-gauche {
+  padding: 55px 25px 400px 25px;
+  margin-top: -100px;
+  margin-left: 40px;
+  margin-right: 860px;
+  margin-bottom: -10px;
+  background-color: #EBEAEA;
+
+}
+
+div#nom-prenom {
+  border: 2px solid black;
+  padding: 0px 0px 25px 25px;
+  margin-left: -45px;
+  margin-right: -50px;
+  margin-top: 10px;
+  margin-bottom: 800px;
+  background-color: #81B62E;
+  color: white;
+
+}
+
+div#nom-prenom h2{
+  margin-top: -20px;
+
+}
+
+div#coordonnees {
+  padding: 25px 25px 25px 25px;
+  margin-right: 890px;
+  margin-left: 60;
+  margin-top: -1200px;
+}
+
+div#coordonnees p {
+  margin-top: -45px;
+  margin-left: 80px;
+  text-align: justify center;
+  font-weight: bold;
+}
+
+div#coordonnees img{
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
+
+div#langues {
+  padding: 25px 25px 25px 25px;
+  margin-right: 890px;
+  margin-left: 60;
+
+}
+
+div#langues img{
+  width: 40px;
+  height: 40px;
+}
+
+div#langues h4{
+  margin-left: 85px;
+  margin-top: -50px;
+}
+
+div#langues p{
+  margin-left: 85px
+}
+
+
+a.stars img{
+  width: 65px;
+  height: 15px;
+  margin-top: -10px;
+
+}
+
+
+div#parcours-pro img{
+  width: 50px;
+  height: 50px;
+}
+
+a.image-competences img{
+  width: 40px;
+  height: 40px;
+
+}
+
+div#competences{
+  padding: 25px 25px 25px 25px;
+  margin-right: 890px;
+  margin-left: 60;
+  margin-top: -25px;
+}
+
+div#competences h4 {
+  margin-top: -30px;
+  margin-left: 85px;
+
+}
+
+div#interet img{
+  width: 40px;
+  height: 40px;
+}
+
+div#interet{
+  padding: 25px 25px 25px 25px;
+  margin-right: 890px;
+  margin-left: 60;
+
+}
+
+div#interet h4{
+  margin-top: -35px;
+  margin-left: 85px;
+}
+
+div#interet p{
+  margin-left: 85px;
+}
+
+div#mots-cles{
+  position: relative;
+  margin-top: -1350px;
+  margin-left: 610px;
+  margin-right: 300px;
+  display: flex;
+  font-weight: bold;
+}
+
+div#photo img{
+  width: 142px;
+  height: 212px;
+  margin-left: 1120px;
+  margin-top: -80px;
+}
+
+div#parcours-pro {
+  position: relative;
+  margin-top: -110px;
+  margin-left: 550px;
+  margin-right: 90px;
+
+}
+
+div#formation {
+  margin-left: 550px;
+  margin-right: 90px;
+
+}
+
+div#parcours-pro h3{
+  margin-top: -30px;
+  margin-left: 60px
+}
+
+div#parcours-pro h4{
+  margin-top: -10px
+}
+
+div#parcours-pro p {
+  margin-top: -15px;
+
+}
+
+p.describe{
+  color: #999999;
+}
+
+p.lieu-poste{
+  font-weight: bold;
+
+}
+div#formation h3{
+  margin-top: -40px;
+  margin-left: 60px;
+}
+
+div#formation p{
+  margin-top: -20px;
+  color: #999999;
+
+}
+
+div#formation h5 {
+  margin-top: -18px
+}
